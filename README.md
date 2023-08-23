@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachetvijay&label=Profile%20views&color=0e75b6&style=flat" alt="sachetvijay" /> </p>
 
-- 🔭 I’m currently learning to build [Flash Chat Using Flutter from here](https://github.com/londonappbrewery/flash-chat-flutter)
+- 🔭 I’m currently building [Blockchain Based Loyalty Reward System using Fungible tokens](https://github.com/Root-Grid/Root_Grid5.0)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Block-chain using Solidity**
 
-- 👯 I’m looking to collaborate on **a new Flutter Project**
+- 👯 I’m looking to collaborate on **any new Project**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **smile.sachet@gmail.com**
 
