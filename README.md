@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **smile.sachet@gmail.com**
 
-- 📄 My [Resume](https://drive.google.com/file/d/1iQlBOVm24vSvviWNooTDgGXpc2e9zubd/view?usp=sharing)
+- 📄 My [Resume](https://drive.google.com/file/d/1eUWyE0Q-Fju2DuVdmENw2HF2VYlQp0Cs/view?usp=share_link)
 
 
 <h3 align="left">Connect with me:</h3>
