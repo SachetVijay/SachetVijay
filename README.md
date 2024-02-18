@@ -14,9 +14,9 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **smile.sachet@gmail.com**
+- 📫 How to reach me **sachetvijayv@gmail.com**
 
-- 📄 My [Resume](https://drive.google.com/file/d/1eUWyE0Q-Fju2DuVdmENw2HF2VYlQp0Cs/view?usp=share_link)
+- 📄 My [Resume](https://drive.google.com/file/d/1eUWyE0Q-Fju2DuVdmENw2HF2VYlQp0Cs/view)
 
 
 <h3 align="left">Connect with me:</h3>
