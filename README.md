@@ -6,13 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachetvijay&label=Profile%20views&color=0e75b6&style=flat" alt="sachetvijay" /> </p>
 
-- 🔭 I’m currently building [Blockchain Based Loyalty Reward System using Fungible tokens](https://github.com/Root-Grid/Root_Grid5.0)
+- 🔭 I’m currently building AI powred Interviewing Platform to help students prepare for interviews.
 
 - 🌱 I’m currently learning **Block-chain using Solidity**
 
 - 👯 I’m looking to collaborate on **any new Project**
 
 - 💬 Ask me about **MERN Stack**
+
+- 📄 My portfolio Website : [Sachet Vijay Portfolio](https://sachet-vijay-portfolio.vercel.app/)
 
 - 📫 How to reach me **sachetvijayv@gmail.com**
 
