@@ -1,14 +1,18 @@
 <a href="https://github.com/SachetVijay"><img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="100%" height="auto"/></a>
 <h1 align="center">Heyyy 👋, I'm Sachet Vijay</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachetvijay&label=Profile%20views&color=0e75b6&style=flat" alt="sachetvijay" /> </p>
 
-- 🔭 I’m currently building AI powred Interviewing Platform to help students prepare for interviews.
+- 👨‍🎓 I'm a final year **Computer Science and Engineering** Student at **IIIT Surat**.
 
-- 🌱 I’m currently learning **Block-chain using Solidity**
+- 🧑‍💼 Currently I'm doing my 6 month Internship at **The Learner Company** as **Software Engineer Intern**.
+
+- 🔭 I’m currently building **AI powred Interviewing Platform to help students prepare for interviews**.
+
+- 🌱 I’m learning **System Design and Block-chain using Solidity**
 
 - 👯 I’m looking to collaborate on **any new Project**
 
