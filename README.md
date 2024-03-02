@@ -14,9 +14,9 @@
 
 - 🌱 I’m learning **System Design and Block-chain using Solidity**
 
-- 👯 I’m looking to collaborate on **any new Project**
+- 👯 I’m looking for new projects to **colaborate on.**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack and Django**
 
 - 📄 My portfolio Website : [Sachet Vijay Portfolio](https://sachet-vijay-portfolio.vercel.app/)
 
